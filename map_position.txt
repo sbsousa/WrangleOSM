@@ -1,0 +1,9 @@
+map.osm URL:
+https://www.openstreetmap.org/#map=14/39.6739/-104.9538
+
+sample.osm Coordinates:
+39.6712/-104.9208
+
+Location:
+Denver, Colorado, USA
+Chamberlin Observatory

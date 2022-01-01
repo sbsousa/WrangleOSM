@@ -1,0 +1,25 @@
+Sources
+
+OpenStreetMap
+https://www.openstreetmap.org/
+
+Overpass API
+http://overpass-api.de/query_form.html
+
+SQL Schema Provided by Udacity
+https://gist.github.com/swwelch/f1144229848b407e0a5d13fcb7fbbd6f
+
+Sample Project Provided by Udacity
+https://gist.github.com/carlward/54ec1c91b62a5f911c42#file-sample_project-md
+
+Python.org: The ElementTree XML API
+https://docs.python.org/3/library/xml.etree.elementtree.html#module-xml.etree.ElementTree
+
+w3schools.com: Python String split() Method
+https://www.w3schools.com/python/ref_string_split.asp
+
+Python 3.0 Built-In Changes. Modified Udacity data.py code with Python 3.9 iterator
+https://wiki.python.org/moin/Python3.0#Built-In_Changes
+
+Denver Regional Council of Governments: Regional Planimetric Data Project
+https://drcog.org/services-and-resources/data-maps-and-modeling/regional-planimetric-data-project
